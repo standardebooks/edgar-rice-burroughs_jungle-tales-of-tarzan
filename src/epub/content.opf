@@ -35,26 +35,29 @@
 		<dc:subject id="subject-5">Adventure stories</dc:subject>
 		<dc:subject id="subject-6">Apes -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">sh2008112521</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2007101346</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85047114</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="term" refines="#subject-4">sj96005803</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh85001072</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">6</meta>
+		<dc:description id="description">A collection of short stories about Tarzan growing up in the jungle.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A collection of various short stories about Tarzan's experiences growing up in the jungle. Though each story stands on its own it does form a loose narrative in chronological sequence. The stories explore Tarzan's development from a young boy into a young man and how those experiences are similar and different to the apes he has grown up among.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/106</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/jungletalesoftar0000unse_a3j5/page/n9/mode/2up</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jungle_Tales_of_Tarzan</meta>
@@ -65,25 +68,21 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n80039681</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">J. Allen St. John</dc:contributor>
+		<meta property="file-as" refines="#artist">St. John, J. Allen</meta>
+		<meta property="se:name.person.full-name" refines="#artist">James Allen St. John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._Allen_St._John</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86809359</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_2_URL</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
+		<dc:contributor id="producer-1">Stephen R. Kifer</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Kifer, Stephen R.</meta>
 		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
