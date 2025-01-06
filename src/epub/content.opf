@@ -53,11 +53,11 @@
 		<meta property="group-position" refines="#collection-1">6</meta>
 		<dc:description id="description">A collection of short stories about Tarzan growing up in the jungle.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A collection of various short stories about Tarzan's experiences growing up in the jungle. Though each story stands on its own it does form a loose narrative in chronological sequence. The stories explore Tarzan's development from a young boy into a young man and how those experiences are similar and different to the apes he has grown up among.&lt;/p&gt;
+			&lt;p&gt;A collection of various short stories about Tarzan’s experiences growing up in the jungle. Though each story stands on its own it does form a loose narrative in chronological sequence. The stories explore Tarzan’s development from a young boy into a young man and how those experiences are similar and different to the apes he has grown up among.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/106</dc:source>
-		<dc:source>https://archive.org/details/jungletalesoftar0000unse_a3j5/page/n9/mode/2up</dc:source>
+		<dc:source>https://archive.org/details/jungletalesoftar0000unse_a3j5</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jungle_Tales_of_Tarzan</meta>
