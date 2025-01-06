@@ -79,7 +79,7 @@
 		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://pgdp.net</meta>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Stephen R. Kifer</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Kifer, Stephen R.</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
