@@ -61,7 +61,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/106</dc:source>
 		<dc:source>https://archive.org/details/jungletalesoftar0000unse_a3j5</dc:source>
-		<meta property="se:word-count">74706</meta>
+		<meta property="se:word-count">74345</meta>
 		<meta property="se:reading-ease.flesch">66.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jungle_Tales_of_Tarzan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_jungle-tales-of-tarzan</meta>
